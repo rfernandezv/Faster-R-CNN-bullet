@@ -1,0 +1,16 @@
+train_images/BloodImage_00398.jpg,83,180,105,229,RBC
+train_images/BloodImage_00398.jpg,1,90,261,374,RBC
+train_images/BloodImage_00398.jpg,175,287,347,446,RBC
+train_images/BloodImage_00398.jpg,205,315,250,329,RBC
+train_images/BloodImage_00398.jpg,351,419,226,317,RBC
+train_images/BloodImage_00398.jpg,447,560,265,361,RBC
+train_images/BloodImage_00398.jpg,451,560,378,465,RBC
+train_images/BloodImage_00398.jpg,571,638,330,449,RBC
+train_images/BloodImage_00398.jpg,405,525,95,165,RBC
+train_images/BloodImage_00398.jpg,358,441,12,90,RBC
+train_images/BloodImage_00398.jpg,160,242,21,100,RBC
+train_images/BloodImage_00398.jpg,189,381,62,243,WBC
+train_images/BloodImage_00398.jpg,471,570,1,67,RBC
+train_images/BloodImage_00398.jpg,509,614,146,290,RBC
+train_images/BloodImage_00398.jpg,23,164,382,477,RBC
+train_images/BloodImage_00398.jpg,292,402,317,414,RBC

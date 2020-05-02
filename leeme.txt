@@ -1,0 +1,1 @@
+keras anterior == 2.2.4, se bajó a 2.1.6
